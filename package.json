@@ -1,0 +1,20 @@
+{
+  "name": "shahi-student-management-system",
+  "version": "1.0.0",
+  "description": "Designed through Object Oriented Programming",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Student Management", "Object Oriented Programming", "Command Line Interface"],
+  "author": "ISMAIL AHMED SHAH",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
